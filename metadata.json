@@ -1,0 +1,7 @@
+{
+  "name": "Abragim Fitness",
+  "description": "A fitness-linked personal finance platform that rewards physical activity with automated savings and tiered subscription benefits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
